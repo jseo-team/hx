@@ -1,5 +1,9 @@
 interface IWiseLib
 {
-	
-    Wise Render(Wise stack);
+    Wise Encode;
+    Wise Filter;
+    Wise Extract;
+    Wise Map;
+    Wise Exclude;
+    Wise Render;
 }
