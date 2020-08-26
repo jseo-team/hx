@@ -1,3 +1,3 @@
-public class Sndeo {
+public class Sndeo : IWiseLib {
   
 }

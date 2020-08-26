@@ -1,3 +1,3 @@
-public class Href {
+public class Href: Wise {
   
 }

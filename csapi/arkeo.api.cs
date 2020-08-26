@@ -1,3 +1,3 @@
-public class Arkeo {
+public class Arkeo : IWiseLib {
   
 }

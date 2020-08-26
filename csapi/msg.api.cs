@@ -1,3 +1,3 @@
-public class Msg {
+public class Msg: Wise {
   
 }

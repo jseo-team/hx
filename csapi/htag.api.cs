@@ -1,3 +1,3 @@
-public class Htag {
+public class Htag : Wise {
   
 }
